@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Saving</string>
+    <string name="save_to_prefs">Save to prefs</string>
+    <string name="load_from_prefs">load from prefs</string>
+    <string name="save_internal">Save internal</string>
+    <string name="load_internal">load internal</string>
+    <string name="save_external">Save external</string>
+    <string name="load_external">load external</string>
+    <string name="save_db">Save DB</string>
+    <string name="load_db">load DB</string>
+</resources>
